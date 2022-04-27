@@ -9,7 +9,7 @@ import Foundation
 
 enum Config {
     static let weatherAPIBaseURL = "api.openweathermap.org"
-    static let weatherAPIAccesstoken = "5bea068f287ea513788d00f99b61720a"
+    static let weatherAPIAccesstoken = "5bea068f287ea513788d00f99b61720a" // not good
     static let weatherImageURLFormat = "https://openweathermap.org/img/wn/%@@2x.png"
 
     // Endpoints
